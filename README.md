@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ndthang0512
-- 👀 I’m interested in Python, Nodejs...
-- 🌱 I’m currently learning Python, Nodejs...
+- 👀 I’m interested in Coding, g
+- 🌱 I’m currently learning Python, Nodejs
 - 💞️ I’m looking to collaborate on Ha Noi
 - 📫 How to reach me thang.nguyen@bnksolution.com
 
